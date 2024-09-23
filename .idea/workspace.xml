@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc2681c8-2552-411c-967a-e9a6b9dd4ddd" name="Changes" comment="Add PersonE.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/fiza/test_kelas/PersonF.kt" afterDir="false" />
+    <list default="true" id="fc2681c8-2552-411c-967a-e9a6b9dd4ddd" name="Changes" comment="Add PersonF.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/fiza/test_kelas/EnkapsulasiA.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,9 +38,9 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.PersonFKt">
-    <configuration name="PersonBKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.fiza.test_kelas.PersonBKt" />
+  <component name="RunManager" selected="Kotlin.EnkapsulasiAKt">
+    <configuration name="EnkapsulasiAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.fiza.test_kelas.EnkapsulasiAKt" />
       <module name="KonsepOOP" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -76,11 +76,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.EnkapsulasiAKt" />
         <item itemvalue="Kotlin.PersonFKt" />
         <item itemvalue="Kotlin.PersonEKt" />
         <item itemvalue="Kotlin.PersonDKt" />
         <item itemvalue="Kotlin.PersonCKt" />
-        <item itemvalue="Kotlin.PersonBKt" />
       </list>
     </recent_temporary>
   </component>
@@ -149,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1727100389582</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add PersonF.kt">
+      <created>1727101251812</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1727101251812</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -160,6 +167,7 @@
     <MESSAGE value="Add PersonC.kt" />
     <MESSAGE value="Add PersonD.kt" />
     <MESSAGE value="Add PersonE.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add PersonE.kt" />
+    <MESSAGE value="Add PersonF.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add PersonF.kt" />
   </component>
 </project>
