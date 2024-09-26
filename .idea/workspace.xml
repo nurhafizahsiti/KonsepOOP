@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc2681c8-2552-411c-967a-e9a6b9dd4ddd" name="Changes" comment="Add InheritanceA.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/fiza/test_kelas/InheritanceB.kt" afterDir="false" />
+    <list default="true" id="fc2681c8-2552-411c-967a-e9a6b9dd4ddd" name="Changes" comment="Add InheritanceC.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/fiza/test_kelas/InheritanceD.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +16,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Kotlin File" />
       </list>
     </option>
@@ -39,14 +40,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.InheritanceCKt">
-    <configuration name="EnkapsulasiAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.fiza.test_kelas.EnkapsulasiAKt" />
-      <module name="KonsepOOP" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.InheritanceDKt">
     <configuration name="EnkapsulasiBKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.fiza.test_kelas.EnkapsulasiBKt" />
       <module name="KonsepOOP" />
@@ -75,13 +69,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="InheritanceDKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.fiza.test_kelas.InheritanceDKt" />
+      <module name="KonsepOOP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.InheritanceDKt" />
         <item itemvalue="Kotlin.InheritanceCKt" />
         <item itemvalue="Kotlin.InheritanceBKt" />
         <item itemvalue="Kotlin.InheritanceAKt" />
         <item itemvalue="Kotlin.EnkapsulasiBKt" />
-        <item itemvalue="Kotlin.EnkapsulasiAKt" />
       </list>
     </recent_temporary>
   </component>
@@ -178,7 +179,21 @@
       <option name="project" value="LOCAL" />
       <updated>1727228262304</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Add InheritanceB.kt">
+      <created>1727321637276</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1727321637276</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Add InheritanceC.kt">
+      <created>1727321921810</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1727321921811</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -193,6 +208,8 @@
     <MESSAGE value="Add EnkapsulasiA.kt" />
     <MESSAGE value="Add EnkapsulasiB.kt" />
     <MESSAGE value="Add InheritanceA.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add InheritanceA.kt" />
+    <MESSAGE value="Add InheritanceB.kt" />
+    <MESSAGE value="Add InheritanceC.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add InheritanceC.kt" />
   </component>
 </project>
