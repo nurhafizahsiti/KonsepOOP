@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc2681c8-2552-411c-967a-e9a6b9dd4ddd" name="Changes" comment="Add InheritanceF.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/fiza/test_kelas/InheritanceG.kt" afterDir="false" />
+    <list default="true" id="fc2681c8-2552-411c-967a-e9a6b9dd4ddd" name="Changes" comment="Add InheritanceH.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/fiza/test_kelas/PolymorphismA.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,14 +39,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.InheritanceHKt">
-    <configuration name="InheritanceDKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.fiza.test_kelas.InheritanceDKt" />
-      <module name="KonsepOOP" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.PolymorphismAKt">
     <configuration name="InheritanceEKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.fiza.test_kelas.InheritanceEKt" />
       <module name="KonsepOOP" />
@@ -75,13 +68,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PolymorphismAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.fiza.test_kelas.PolymorphismAKt" />
+      <module name="KonsepOOP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.PolymorphismAKt" />
         <item itemvalue="Kotlin.InheritanceHKt" />
         <item itemvalue="Kotlin.InheritanceGKt" />
         <item itemvalue="Kotlin.InheritanceFKt" />
         <item itemvalue="Kotlin.InheritanceEKt" />
-        <item itemvalue="Kotlin.InheritanceDKt" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +213,21 @@
       <option name="project" value="LOCAL" />
       <updated>1727323324768</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Add InheritanceG.kt">
+      <created>1727324337636</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1727324337636</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Add InheritanceH.kt">
+      <created>1727324600872</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1727324600872</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -233,6 +247,8 @@
     <MESSAGE value="Add InheritanceD.kt" />
     <MESSAGE value="Add InheritanceE.kt" />
     <MESSAGE value="Add InheritanceF.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add InheritanceF.kt" />
+    <MESSAGE value="Add InheritanceG.kt" />
+    <MESSAGE value="Add InheritanceH.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add InheritanceH.kt" />
   </component>
 </project>
