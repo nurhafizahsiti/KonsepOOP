@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc2681c8-2552-411c-967a-e9a6b9dd4ddd" name="Changes" comment="Add DataClassB.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/fiza/test_kelas/DataClassC.kt" afterDir="false" />
+    <list default="true" id="fc2681c8-2552-411c-967a-e9a6b9dd4ddd" name="Changes" comment="Add DataClassF.kt">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/fiza/test_kelas/EnkapsulasiA.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/fiza/test_kelas/EnkapsulasiA.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/fiza/test_kelas/EnkapsulasiB.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/fiza/test_kelas/EnkapsulasiB.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/fiza/test_kelas/PersonF.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/fiza/test_kelas/PersonF.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,14 +42,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.DataClassFKt">
-    <configuration name="DataClassBKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.fiza.test_kelas.DataClassBKt" />
-      <module name="KonsepOOP" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.EnkapsulasiBKt">
     <configuration name="DataClassCKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.fiza.test_kelas.DataClassCKt" />
       <module name="KonsepOOP" />
@@ -75,13 +71,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="EnkapsulasiBKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.fiza.test_kelas.EnkapsulasiBKt" />
+      <module name="KonsepOOP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.EnkapsulasiBKt" />
         <item itemvalue="Kotlin.DataClassFKt" />
         <item itemvalue="Kotlin.DataClassEKt" />
         <item itemvalue="Kotlin.DataClassDKt" />
         <item itemvalue="Kotlin.DataClassCKt" />
-        <item itemvalue="Kotlin.DataClassBKt" />
       </list>
     </recent_temporary>
   </component>
@@ -325,13 +328,38 @@
       <option name="project" value="LOCAL" />
       <updated>1727408670702</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Add DataClassB.kt">
+      <created>1727408812020</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1727408812020</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Add DataClassD.kt">
+      <created>1727408885594</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1727408885594</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Add DataClassE.kt">
+      <created>1727408983638</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1727408983638</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Add DataClassF.kt">
+      <created>1727409100131</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1727409100131</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add PersonF.kt" />
-    <MESSAGE value="Add EnkapsulasiA.kt" />
-    <MESSAGE value="Add EnkapsulasiB.kt" />
     <MESSAGE value="Add InheritanceA.kt" />
     <MESSAGE value="Add InheritanceB.kt" />
     <MESSAGE value="Add InheritanceC.kt" />
@@ -354,6 +382,9 @@
     <MESSAGE value="Add NestedInnerClassB.kt" />
     <MESSAGE value="Add DataClassA.kt" />
     <MESSAGE value="Add DataClassB.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add DataClassB.kt" />
+    <MESSAGE value="Add DataClassD.kt" />
+    <MESSAGE value="Add DataClassE.kt" />
+    <MESSAGE value="Add DataClassF.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add DataClassF.kt" />
   </component>
 </project>

@@ -1,12 +1,12 @@
 package id.ac.polbeng.fiza.test_kelas
-
+import java.util.*
 class EmployeeA (_id: Int, _name: String, _age: Int){
     val id: Int = _id
         get() = field
 
     var name: String = _name
         get() {
-            return field.toUpperCase()
+            return field.uppercase(Locale.getDefault())
         }
         set(value) {
             field = value

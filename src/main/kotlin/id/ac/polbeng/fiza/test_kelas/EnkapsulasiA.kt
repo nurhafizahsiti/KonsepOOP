@@ -1,9 +1,7 @@
 package id.ac.polbeng.fiza.test_kelas
-
 class Employee(_id: Int, _name: String, _age: Int){
     val id: Int = _id
         get() = field
-
     var name: String = _name
         get() = field
         set(value) {
@@ -15,7 +13,6 @@ class Employee(_id: Int, _name: String, _age: Int){
             field = value
         }
 }
-
 fun main() {
     val emp = Employee(1101, "Jono", 25)
     println("Id : ${emp.id}, Nama : ${emp.name}, Umur : ${emp.age}")

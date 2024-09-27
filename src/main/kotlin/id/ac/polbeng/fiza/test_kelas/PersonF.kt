@@ -14,7 +14,8 @@ class PersonF (val firstName: String, val lastName: String){
         println("COuntry : $_country")
         println()
     }
-    constructor(_firstName: String, _lastName: String, _age: Int, _country: String): this(_firstName, _lastName, _age){
+    constructor(_firstName: String, _lastName: String, _age: Int, _country: String):
+            this(_firstName, _lastName, _age){
         println("Name : $_firstName $_lastName")
         println("Age: $_age")
         println("Country : $_country")
