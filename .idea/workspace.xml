@@ -39,7 +39,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.DataClassDKt">
+  <component name="RunManager" selected="Kotlin.DataClassEKt">
     <configuration name="DataClassAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.fiza.test_kelas.DataClassAKt" />
       <module name="KonsepOOP" />
@@ -68,8 +68,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedInnerClassBKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.fiza.test_kelas.NestedInnerClassBKt" />
+    <configuration name="DataClassEKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.fiza.test_kelas.DataClassEKt" />
       <module name="KonsepOOP" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -77,11 +77,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.DataClassEKt" />
         <item itemvalue="Kotlin.DataClassDKt" />
         <item itemvalue="Kotlin.DataClassCKt" />
         <item itemvalue="Kotlin.DataClassBKt" />
         <item itemvalue="Kotlin.DataClassAKt" />
-        <item itemvalue="Kotlin.NestedInnerClassBKt" />
       </list>
     </recent_temporary>
   </component>
