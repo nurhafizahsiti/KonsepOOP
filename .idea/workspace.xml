@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc2681c8-2552-411c-967a-e9a6b9dd4ddd" name="Changes" comment="Add NestedInnerClass.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/fiza/test_kelas/NestedInnerClassA.kt" afterDir="false" />
+    <list default="true" id="fc2681c8-2552-411c-967a-e9a6b9dd4ddd" name="Changes" comment="Add NestedInnerClassA.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/fiza/test_kelas/NestedInnerClassB.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,14 +40,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.NestedInnerClassAKt">
-    <configuration name="InterfaceBKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.fiza.test_kelas.InterfaceBKt" />
-      <module name="KonsepOOP" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Kotlin.NestedInnerClassBKt">
     <configuration name="InterfaceCKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.fiza.test_kelas.InterfaceCKt" />
       <module name="KonsepOOP" />
@@ -68,6 +62,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="NestedInnerClassBKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.fiza.test_kelas.NestedInnerClassBKt" />
+      <module name="KonsepOOP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="NestedInnerClassKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.fiza.test_kelas.NestedInnerClassKt" />
       <module name="KonsepOOP" />
@@ -77,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.NestedInnerClassBKt" />
         <item itemvalue="Kotlin.NestedInnerClassAKt" />
         <item itemvalue="Kotlin.NestedInnerClassKt" />
         <item itemvalue="Kotlin.InterfaceDKt" />
         <item itemvalue="Kotlin.InterfaceCKt" />
-        <item itemvalue="Kotlin.InterfaceBKt" />
       </list>
     </recent_temporary>
   </component>
@@ -297,11 +298,17 @@
       <option name="project" value="LOCAL" />
       <updated>1727406539487</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Add NestedInnerClassA.kt">
+      <created>1727406690658</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1727406690658</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Add PersonB.kt" />
     <MESSAGE value="Add PersonC.kt" />
     <MESSAGE value="Add PersonD.kt" />
     <MESSAGE value="Add PersonE.kt" />
@@ -326,6 +333,7 @@
     <MESSAGE value="Add InterfaceC.kt" />
     <MESSAGE value="Add InterfaceD.kt" />
     <MESSAGE value="Add NestedInnerClass.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add NestedInnerClass.kt" />
+    <MESSAGE value="Add NestedInnerClassA.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add NestedInnerClassA.kt" />
   </component>
 </project>
