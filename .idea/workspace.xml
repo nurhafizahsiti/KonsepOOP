@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc2681c8-2552-411c-967a-e9a6b9dd4ddd" name="Changes" comment="Add AbstractClassA.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/fiza/test_kelas/InterfaceA.kt" afterDir="false" />
+    <list default="true" id="fc2681c8-2552-411c-967a-e9a6b9dd4ddd" name="Changes" comment="Add InterfaceA.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/id/ac/polbeng/fiza/test_kelas/InterfaceB.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,7 +40,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Kotlin.InterfaceAKt">
+  <component name="RunManager" selected="Kotlin.InterfaceBKt">
     <configuration name="AbstractClassAKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.fiza.test_kelas.AbstractClassAKt" />
       <module name="KonsepOOP" />
@@ -62,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PolymorphismBKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.fiza.test_kelas.PolymorphismBKt" />
+    <configuration name="InterfaceBKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="id.ac.polbeng.fiza.test_kelas.InterfaceBKt" />
       <module name="KonsepOOP" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -78,11 +78,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.InterfaceBKt" />
         <item itemvalue="Kotlin.InterfaceAKt" />
         <item itemvalue="Kotlin.AbstractClassAKt" />
         <item itemvalue="Kotlin.AccessModifierAKt" />
         <item itemvalue="Kotlin.VisibilityAKt" />
-        <item itemvalue="Kotlin.PolymorphismBKt" />
       </list>
     </recent_temporary>
   </component>
@@ -263,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1727326956035</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Add InterfaceA.kt">
+      <created>1727405204379</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1727405204379</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -290,6 +297,7 @@
     <MESSAGE value="Add VisibilityA.kt" />
     <MESSAGE value="Add AccessModifierA.kt" />
     <MESSAGE value="Add AbstractClassA.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add AbstractClassA.kt" />
+    <MESSAGE value="Add InterfaceA.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add InterfaceA.kt" />
   </component>
 </project>
